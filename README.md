@@ -1,4 +1,4 @@
-# ShortLink - Professional URL Shortener
+# ShortLink - URL Shortener
 
 A Bitly-like URL shortener with advanced analytics, custom slugs, rate limiting, and JWT authentication. Built with Next.js, Node.js, Express, and MySQL.
 
